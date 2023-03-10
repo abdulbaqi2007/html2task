@@ -1,0 +1,21 @@
+#date{
+    margin-left: 80%;
+}
+#container{
+    border: 2px solid black;
+ height: 2000px;
+}
+#title{
+  margin-left: 45%;
+}
+#paragraph{
+    margin-bottom: -0.2%;
+    margin-top: -0.1%;
+}
+table, tr, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#saffray{
+    font-size: 15px;
+}
