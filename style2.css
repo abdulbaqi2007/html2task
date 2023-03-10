@@ -3,19 +3,44 @@
 }
 #container{
     border: 2px solid black;
- height: 2000px;
+ height: 70%;
+ width: 48%;
 }
 #title{
-  margin-left: 45%;
+  margin-left: 15%;
 }
 #paragraph{
     margin-bottom: -0.2%;
     margin-top: -0.1%;
+    margin-left: 1.5%;
 }
 table, tr, th, td{
     border: 1px solid black;
     border-collapse: collapse;
 }
 #saffray{
+    font-size: 15px;
+}
+#color-black{
+    background-color: rgb(94, 92, 92);
+}
+#height{
+    font-size: 10px;
+}
+#pixel{
+    width: 11%;
+}
+#html{
+    margin-left: 2%;
+}
+#para{
+    font-size: 13.5px;
+    margin-left: 1.5%;
+    margin-top: -0%;
+}
+#numero{
+    font-size: 12px;
+}
+#numro{
     font-size: 15px;
 }
